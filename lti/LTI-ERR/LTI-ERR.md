@@ -98,3 +98,38 @@ En este caso de uso, los técnicos de RRHH programan entrevistas con los candida
 ![](./assets/usecase3.png)
 
 ## Modelo de datos
+![](./assets/modelo_de_datos.png)
+
+
+## Diseño de alto alto nivel
+La aplicación LTI se compone de varias capas, comenzando por la Capa de Presentación (Frontend), que contiene los componentes ReactJS responsables de la interfaz de usuario. Estos componentes se comunican con el backend a través de un Adaptador REST en la Capa de Aplicación (Backend), que consiste en controladores Spring Boot.
+
+La Capa de Aplicación maneja las solicitudes HTTP y llama a los Servicios de Aplicación correspondientes en la Capa de Dominio (Lógica de Negocio). Aquí es donde reside la lógica de negocio de la aplicación, implementada en Servicios de Dominio que interactúan con los Repositorios para acceder a los datos en la Capa de Infraestructura (Persistencia).
+
+Además de la comunicación con la base de datos PostgreSQL a través de los Adaptadores de Persistencia, la aplicación LTI también interactúa con aplicaciones externas. Estas aplicaciones externas incluyen Plataformas de Tests Online, un Servidor de Email y un Servicio de Firma Digital (por ejemplo, Docusign). LTI llama a las interfaces externas para llevar a cabo funciones como la gestión de pruebas, el envío de correos electrónicos y la firma digital de documentos.
+![](./assets/diseño_alto_nivel.png)
+
+## Diagrama arquitectura C4 del backend
+````mermaid
+@startuml
+package "Applicant Tracking System (LTI)" {
+    package "Backend" {
+        [Controladores Spring Boot] as Controllers
+        [Servicios de Aplicación] as ApplicationServices
+        [Servicios de Dominio] as DomainServices
+        [Repositorios] as Repositories
+        database "Base de Datos PostgreSQL" as Database
+    }
+}
+
+actor "Usuario de RRHH" as User
+
+User --> Backend : Usa
+
+Backend --> Database : Accede a
+
+Controllers --> ApplicationServices : Usa
+ApplicationServices --> DomainServices : Usa
+DomainServices --> Repositories : Usa
+@enduml
+```
