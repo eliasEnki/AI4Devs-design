@@ -305,7 +305,7 @@ erDiagram
 
 **Reporte:** Esta entidad maneja los datos generados por los reportes de análisis, que pueden abarcar desde desempeño hasta resultados de las contrataciones.
 
-Este modelo permite gestionar el registro de candidatos, filtrarlos según criterios específicos y generar reportes basados en datos acumulados. Si necesitas expandir este modelo para incluir más detalles, o si tienes requisitos específicos adicionales, házmelo saber para ajustarlo acorde a tus necesidades.
+Este modelo permite gestionar el registro de candidatos, filtrarlos según criterios específicos y generar reportes basados en datos acumulados. 
 
 # Diseño del sistema a alto nivel
 
