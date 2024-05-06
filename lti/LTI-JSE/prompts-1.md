@@ -14,3 +14,13 @@
 13. Ahora, eres un experto arquitecto de software, podrías darme un diseño del sistema a alto nivel, tanto explicado como con un diagrama para AWS y hecho en Diagrams con el lenguaje python.
 14. Podrías darme un diagrama C4 que llegue en profundidad a uno de los componentes del sistema, el que prefieras?
 15. Podrías darme una lista de todos los prompts que te he hecho, numerados, en código MarkDown?
+16. Los diagramas de casos de uso que generaste son diagramas de secuencia, podrías generarlos de nuevo en formato plantuml?
+17. Por lo general, cuáles son los pain de los software ATS?
+18. A partir de los pain que me diste y teniendo en cuenta el Valor añadido y ventajas competitivas que me diste al inicio de la conversación, podrías complementar el Valor añadido y ventajas competitivas?
+19. Teniendo en cuenta el Valor añadido y las ventajas competitivas que acabas de darme y las funciones principales que me proporcionaste al inicio del chat, podrías complementar las funciones principales del software?
+20. A partir de toda esta nueva información, podrías darme un mejor Lean Canvas que el que me diste al inicio del chat?
+21. Ahora que eres un experto en producto con experiencia desarrollando ATSs, podrías darme los 3 casos de uso más importantes junto a sus diagramas en formato plantuml?
+22. Perfecto! Ahora eres un experto en modelado de datos y requiero un Modelo de datos, muy completo, en base a toda esta nueva información, que cubra entidades, atributos (nombre y tipo) y relaciones en formato mermaid
+23. Perfecto! Ahora eres un experto diseñando sistemas de software. Basándonos en esta nueva información, requiero el Diseño del sistema a alto nivel, tanto explicado como con un diagrama hecho en código con Diagrams en python
+24. En el diagrama, creo que los usuarios están mal ubicados
+25. Perfecto! Ahora, basándonos en esta nueva información, podrías darme un diagrama C4 que llegue en profundidad a uno de los componentes del sistema usando diagrams de python, además de explicarlo?
