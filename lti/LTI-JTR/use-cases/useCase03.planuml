@@ -1,0 +1,23 @@
+@startuml
+actor "Reclutador" as R
+actor "Gerente de Recursos Humanos" as HRM
+actor "Applicant Tracking System" as ATS
+
+usecase "Recopilación de Datos del Proceso" as RDP
+usecase "Generación de Informes" as GI
+usecase "Análisis de Métricas" as AM
+usecase "Identificación de Mejoras" as IM
+usecase "Detección de Sesgos" as DS
+
+R --> ATS : Proporciona datos sobre procesos de selección
+ATS --> RDP : Recopila datos del proceso
+ATS --> GI : Genera informes personalizados
+ATS --> AM : Analiza métricas clave
+
+HRM --> ATS : Solicita informes y análisis
+ATS --> IM : Identifica áreas de mejora
+ATS --> DS : Detecta posibles sesgos
+
+ATS --> HRM : Proporciona informes y análisis
+ATS --> R : Proporciona retroalimentación sobre mejoras
+@enduml

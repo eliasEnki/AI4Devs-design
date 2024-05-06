@@ -1,0 +1,26 @@
+@startuml
+actor "Reclutador" as R
+actor "Candidato" as C
+actor "Applicant Tracking System" as ATS
+
+usecase "Publicación de Oferta" as P
+usecase "Recepción de Candidaturas" as RCV
+usecase "Filtrado de Candidaturas" as F
+usecase "Programación de Entrevistas" as PI
+usecase "Entrevistas" as E
+usecase "Selección del Candidato" as SC
+usecase "Comunicación con Candidatos" as CC
+
+R --> P : Publica oferta
+ATS --> RCV : Recibe candidaturas
+ATS --> F : Filtra candidaturas
+ATS --> PI : Programa entrevistas
+R --> E : Conduce entrevistas
+R --> SC : Selecciona candidato
+ATS --> CC : Envía comunicaciones
+
+C --> ATS : Envía candidatura
+ATS --> C : Confirma recepción
+ATS --> C : Programa entrevista
+ATS --> C : Notifica selección/rechazo
+@enduml

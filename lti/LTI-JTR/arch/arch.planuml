@@ -1,0 +1,46 @@
+@startuml
+left to right direction
+
+' Presentation Layer
+package "Presentation Layer" #E3F2FD {
+    [Web Frontend]
+    [Recruiter Portal]
+    [Candidate Portal]
+}
+
+' Application Layer (microservices)
+package "Application Layer" #FFF176 {
+    [Job Offer Service]
+    [Candidate Service]
+    [Interview Service]
+    [Reporting Service]
+    [Notification Service]
+}
+
+' Infrastructure Layer
+package "Infrastructure Layer" #C8E6C9 {
+    [Relational Database (PostgreSQL)]
+    [NoSQL Database (MongoDB)]
+    [Event Bus (Kafka, RabbitMQ)]
+    [External Services]
+    [Monitoring and Logging]
+}
+
+' Interaction between layers
+[Web Frontend] --> [Job Offer Service] : Uses
+[Recruiter Portal] --> [Job Offer Service] : Manages
+[Recruiter Portal] --> [Candidate Service] : Manages
+[Recruiter Portal] --> [Interview Service] : Schedules
+[Candidate Portal] --> [Job Offer Service] : Applies to
+[Candidate Portal] --> [Interview Service] : Receives Notifications
+
+' Application layer interaction with infrastructure
+[Job Offer Service] --> [Relational Database (PostgreSQL)] : Stores/Reads
+[Candidate Service] --> [Relational Database (PostgreSQL)] : Stores/Reads
+[Interview Service] --> [Relational Database (PostgreSQL)] : Stores/Reads
+[Reporting Service] --> [Relational Database (PostgreSQL)] : Queries
+[Notification Service] --> [NoSQL Database (MongoDB)] : Stores
+[Application Layer] --> [Event Bus (Kafka, RabbitMQ)] : Publishes/Consumes
+[Infrastructure Layer] --> [Monitoring and Logging] : Observes
+
+@enduml

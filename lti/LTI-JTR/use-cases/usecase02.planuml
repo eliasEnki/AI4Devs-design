@@ -1,0 +1,26 @@
+@startuml
+actor "Reclutador" as R
+actor "Candidato" as C
+actor "Applicant Tracking System" as ATS
+
+usecase "Envío de Candidatura" as EC
+usecase "Confirmación de Recepción" as CR
+usecase "Seguimiento del Proceso" as SP
+usecase "Programación de Entrevista" as PI
+usecase "Comunicación del Estado" as CS
+usecase "Retroalimentación al Candidato" as RC
+
+C --> ATS : Envía candidatura
+ATS --> C : Envía confirmación de recepción
+
+ATS --> SP : Proporciona seguimiento del proceso
+ATS --> CS : Comunicación del estado y actualizaciones
+
+ATS --> PI : Programa entrevista
+ATS --> RC : Envía retroalimentación tras entrevista
+
+ATS --> C : Ofrece información y asistencia
+ATS --> R : Facilita coordinación de entrevistas
+
+R --> ATS : Actualiza estado del proceso
+@enduml
