@@ -1,0 +1,267 @@
+Diseño de un software para automatizar el reclutamiento de candidatos
+Introducción:
+
+El software de reclutamiento automatizado es una herramienta esencial para las empresas que buscan optimizar y agilizar sus procesos de selección de personal. Este tipo de software 
+permite automatizar tareas repetitivas como la publicación de ofertas de trabajo, la recepción y clasificación de solicitudes, y la gestión de entrevistas.
+
+Funcionalidades del software:
+
+1. Publicación de ofertas de trabajo:
+
+El sistema debe permitir la creación y publicación de ofertas de trabajo de manera sencilla y rápida.
+Las ofertas de trabajo deben poder incluir toda la información relevante, como el título del puesto, la descripción del trabajo, los requisitos y las responsabilidades.
+El sistema debe permitir la publicación de ofertas de trabajo en diferentes canales, como el sitio web de la empresa, bolsas de trabajo y redes sociales.
+2. Recepción y clasificación de solicitudes:
+
+El sistema debe permitir la recepción de solicitudes de trabajo en línea.
+Las solicitudes de trabajo deben poder incluir toda la información relevante, como el currículum vitae, la carta de presentación y otra información adicional que el candidato 
+desee proporcionar.
+El sistema debe permitir la clasificación automática de las solicitudes de trabajo en función de criterios predefinidos, como las palabras clave, las habilidades y la experiencia.
+3. Seguimiento del proceso de selección:
+
+El sistema debe permitir el seguimiento del proceso de selección de principio a fin.
+El sistema debe permitir registrar el estado de cada solicitud, como recibido, en revisión, seleccionado para entrevista o rechazado.
+El sistema debe permitir la creación de notas y comentarios sobre cada candidato.
+4. Gestión de entrevistas:
+
+El sistema debe permitir la programación de entrevistas con los candidatos seleccionados.
+El sistema debe permitir enviar invitaciones a las entrevistas por correo electrónico o calendario.
+El sistema debe permitir registrar los resultados de las entrevistas.
+5. Informes y análisis:
+
+El sistema debe permitir generar informes sobre el proceso de reclutamiento.
+Los informes deben incluir información sobre el número de solicitudes recibidas, el número de candidatos seleccionados para entrevista, el tiempo promedio de 
+contratación y otros datos relevantes.
+El sistema debe permitir analizar los datos de reclutamiento para identificar tendencias y mejorar los procesos de selección.
+Consideraciones adicionales:
+
+El software debe ser fácil de usar e intuitivo.
+El software debe ser seguro y proteger los datos de los candidatos.
+El software debe ser escalable y poder adaptarse a las necesidades de la empresa.
+El software debe integrarse con otros sistemas de RRHH, como el sistema de nómina y el sistema de gestión del rendimiento.
+Beneficios del uso de un software de reclutamiento automatizado:
+
+Reducción del tiempo y el costo del proceso de reclutamiento.
+Mejora de la calidad de las contrataciones.
+Mayor eficiencia y productividad del equipo de RRHH.
+Mejor experiencia para los candidatos.
+Conclusión:
+
+El software de reclutamiento automatizado puede ser una herramienta valiosa para las empresas que buscan optimizar sus procesos de selección de personal. 
+Al automatizar tareas repetitivas y proporcionar herramientas para la gestión eficiente del proceso de selección, este tipo de software puede ayudar a las empresas a ahorrar 
+tiempo y dinero, mejorar la calidad de las contrataciones y brindar una mejor experiencia para los candidatos.
+
+
+Casos de USO
+Casos de uso para software de reclutamiento automatizado
+Casos de uso para usuarios (empleadores):
+
+Crear y publicar ofertas de trabajo:
+
+El usuario puede crear una nueva oferta de trabajo ingresando los detalles del puesto, como el título, la descripción, los requisitos y las responsabilidades.
+El usuario puede seleccionar en qué canales publicar la oferta de trabajo, como el sitio web de la empresa, bolsas de trabajo y redes sociales.
+El usuario puede previsualizar la oferta de trabajo antes de publicarla.
+Revisar y clasificar solicitudes:
+
+El usuario puede ver todas las solicitudes recibidas para una oferta de trabajo específica.
+El usuario puede filtrar y clasificar las solicitudes por criterios como palabras clave, habilidades, experiencia y educación.
+El usuario puede agregar notas y comentarios a cada solicitud.
+El usuario puede marcar las solicitudes como "favoritas", "para revisar" o "rechazadas".
+Gestionar candidatos:
+
+El usuario puede ver el perfil de cada candidato, que incluye su currículum vitae, carta de presentación y otra información relevante.
+El usuario puede enviar por correo electrónico a los candidatos para programar entrevistas.
+El usuario puede registrar los resultados de las entrevistas y agregar notas y comentarios.
+El usuario puede cambiar el estado de un candidato a "contratado", "rechazado" o "en espera".
+Generar informes:
+
+El usuario puede generar informes sobre el proceso de reclutamiento para una oferta de trabajo específica.
+Los informes pueden incluir información como el número de solicitudes recibidas, el número de candidatos seleccionados para entrevista, el tiempo 
+promedio de contratación y la tasa de retención de candidatos.
+El usuario puede exportar informes a PDF o CSV.
+Casos de uso para usuarios (candidatos):
+
+Buscar y postularse a ofertas de trabajo:
+
+El usuario puede buscar ofertas de trabajo por palabras clave, título del puesto, ubicación y empresa.
+El usuario puede ver los detalles de cada oferta de trabajo, como la descripción, los requisitos y las responsabilidades.
+El usuario puede postularse a una oferta de trabajo completando un formulario en línea y adjuntando su currículum vitae y carta de presentación.
+Gestionar su perfil:
+
+El usuario puede ver y actualizar su perfil, que incluye su información personal, educación, experiencia laboral y habilidades.
+El usuario puede configurar sus preferencias de notificación para recibir correos electrónicos sobre nuevas ofertas de trabajo que coincidan con sus criterios.
+El usuario puede ver el estado de sus solicitudes de empleo.
+Casos de uso adicionales:
+
+Integración con bolsas de trabajo: El software puede integrarse con bolsas de trabajo populares para publicar ofertas de trabajo y recibir solicitudes.
+Verificación de antecedentes: El software puede integrarse con servicios de verificación de antecedentes para verificar los antecedentes de los candidatos.
+Evaluación de habilidades: El software puede incluir herramientas de evaluación de habilidades para evaluar las habilidades de los candidatos.
+Onboarding: El software puede integrarse con sistemas de onboarding para facilitar la incorporación de nuevos empleados.
+Estos son solo algunos ejemplos de casos de uso para software de reclutamiento automatizado. El software real puede tener más o menos funcionalidades, 
+dependiendo de las necesidades específicas de los usuarios.
+
+Actores principales en el software de reclutamiento automatizado
+Empleadores:
+
+Reclutadores: Son responsables de publicar ofertas de trabajo, revisar y clasificar solicitudes, gestionar candidatos y generar informes.
+Gerentes de contratación: Son responsables de aprobar las ofertas de trabajo, participar en las entrevistas y tomar decisiones de contratación.
+Empleados: Son los usuarios finales del software que buscan y se postulan a ofertas de trabajo.
+Candidatos:
+
+Buscadores de empleo: Son los usuarios finales del software que buscan y se postulan a ofertas de trabajo.
+Candidatos seleccionados: Son los candidatos que han sido seleccionados para una entrevista o que están siendo considerados para un puesto.
+Proveedores de servicios:
+
+Proveedores de bolsas de trabajo: Integran el software con sus plataformas para que las empresas puedan publicar ofertas de trabajo y recibir solicitudes.
+Proveedores de verificación de antecedentes: Integran el software con sus servicios para verificar los antecedentes de los candidatos.
+Proveedores de evaluación de habilidades: Integran el software con sus herramientas para evaluar las habilidades de los candidatos.
+Proveedores de onboarding: Integran el software con sus sistemas para facilitar la incorporación de nuevos empleados.
+Otros:
+
+Administradores del sistema: Son responsables de instalar, configurar y mantener el software.
+Soporte técnico: Son responsables de brindar soporte a los usuarios del software.
+Relaciones entre los actores:
+
+Los reclutadores publican ofertas de trabajo, revisan y clasifican solicitudes, gestionan candidatos y generan informes.
+Los gerentes de contratación aprueban las ofertas de trabajo, participan en las entrevistas y toman decisiones de contratación.
+Los empleados buscan y se postulan a ofertas de trabajo.
+Los buscadores de empleo buscan y se postulan a ofertas de trabajo.
+Los candidatos seleccionados son entrevistados y considerados para puestos.
+Los proveedores de bolsas de trabajo permiten que las empresas publiquen ofertas de trabajo y reciban solicitudes.
+Los proveedores de verificación de antecedentes verifican los antecedentes de los candidatos.
+Los proveedores de evaluación de habilidades evalúan las habilidades de los candidatos.
+Los proveedores de onboarding facilitan la incorporación de nuevos empleados.
+Los administradores del sistema instalan, configuran y mantienen el software.
+El soporte técnico brinda soporte a los usuarios del software.
+Los actores principales en el software de reclutamiento automatizado trabajan juntos para optimizar el proceso de contratación y encontrar a los mejores candidatos 
+para los puestos vacantes.
+
+Diagrama de flujo para el software de reclutamiento automatizado
+Inicio:
+
+Un usuario (reclutador, gerente de contratación o candidato) accede al software de reclutamiento automatizado.
+Caso de uso 1: Publicar una oferta de trabajo (Reclutador):
+
+El reclutador inicia el proceso de creación de una nueva oferta de trabajo.
+El reclutador ingresa los detalles de la oferta de trabajo, como el título del puesto, la descripción, los requisitos y las responsabilidades.
+El reclutador selecciona en qué canales publicar la oferta de trabajo (sitio web de la empresa, bolsas de trabajo, redes sociales).
+El reclutador revisa la oferta de trabajo y la publica.
+Caso de uso 2: Revisar y clasificar solicitudes (Reclutador):
+
+El reclutador accede a la lista de solicitudes recibidas para una oferta de trabajo específica.
+El reclutador puede filtrar y clasificar las solicitudes por criterios como palabras clave, habilidades, experiencia y educación.
+El reclutador puede agregar notas y comentarios a cada solicitud.
+El reclutador puede marcar las solicitudes como "favoritas", "para revisar" o "rechazadas".
+Caso de uso 3: Gestionar candidatos (Reclutador):
+
+El reclutador selecciona un candidato de la lista de solicitudes.
+El reclutador puede ver el perfil del candidato, que incluye su currículum vitae, carta de presentación y otra información relevante.
+El reclutador puede enviar un correo electrónico al candidato para programar una entrevista.
+El reclutador puede registrar los resultados de la entrevista y agregar notas y comentarios.
+El reclutador puede cambiar el estado del candidato a "contratado", "rechazado" o "en espera".
+Caso de uso 4: Buscar y postularse a ofertas de trabajo (Candidato):
+
+El candidato busca ofertas de trabajo por palabras clave, título del puesto, ubicación y empresa.
+El candidato ve los detalles de cada oferta de trabajo, como la descripción, los requisitos y las responsabilidades.
+El candidato decide si desea postularse a la oferta de trabajo.
+Si el candidato decide postularse, completa un formulario en línea y adjunta su currículum vitae y carta de presentación.
+El sistema envía la solicitud al reclutador correspondiente.
+Caso de uso 5: Generar informes (Reclutador):
+
+El reclutador selecciona una oferta de trabajo específica.
+El reclutador genera un informe sobre el proceso de reclutamiento para la oferta de trabajo seleccionada.
+El informe incluye información como el número de solicitudes recibidas, el número de candidatos seleccionados para entrevista, el tiempo promedio de contratación y la tasa de retención de candidatos.
+El reclutador puede exportar el informe a PDF o CSV.
+Fin:
+
+El usuario sale del software de reclutamiento automatizado.
+Notas:
+
+Este diagrama de flujo es una representación simplificada del software de reclutamiento automatizado. El software real puede tener más o menos funcionalidades, dependiendo de las necesidades específicas de los usuarios.
+Los casos de uso se pueden ampliar para incluir más detalles sobre los pasos específicos involucrados en cada proceso.
+El diagrama de flujo se puede usar como punto de partida para diseñar la interfaz de usuario del software.
+
+Modelado de datos para el software de reclutamiento automatizado
+Entidades:
+
+Oferta de trabajo:
+
+Identificador único
+Título del puesto
+Descripción del puesto
+Requisitos
+Responsabilidades
+Fecha de publicación
+Fecha de cierre
+Estado (activa, cerrada)
+Creador (reclutador)
+Candidato:
+
+Identificador único
+Nombre
+Apellido
+Correo electrónico
+Teléfono
+Ubicación
+Currículum vitae
+Carta de presentación
+Habilidades
+Experiencia
+Educación
+Solicitud:
+
+Identificador único
+Oferta de trabajo
+Candidato
+Fecha de postulación
+Estado (recibida, en revisión, seleccionada para entrevista, rechazada)
+Notas y comentarios
+Entrevista:
+
+Identificador único
+Solicitud
+Fecha y hora
+Entrevistador (reclutador o gerente de contratación)
+Notas y comentarios
+Resultado (contratado, rechazado, en espera)
+Relaciones:
+
+Una oferta de trabajo puede tener muchas solicitudes.
+Un candidato puede postularse a muchas ofertas de trabajo.
+Una solicitud pertenece a una oferta de trabajo y a un candidato.
+Una solicitud puede tener una o más entrevistas.
+Una entrevista pertenece a una solicitud.
+
+Oferta de trabajo (oferta_id, titulo, descripcion, requisitos, responsabilidades, fecha_publicacion, fecha_cierre, estado, creador_id)
+
+Candidato (candidato_id, nombre, apellido, email, telefono, ubicacion, cv, carta_presentacion, habilidades, experiencia, educacion)
+
+Solicitud (solicitud_id, oferta_id, candidato_id, fecha_postulacion, estado, notas_comentarios)
+
+Entrevista (entrevista_id, solicitud_id, fecha_hora, entrevistador_id, notas_comentarios, resultado)
+
+**Claves primarias:**
+
+* Oferta de trabajo: oferta_id
+* Candidato: candidato_id
+* Solicitud: solicitud_id
+* Entrevista: entrevista_id
+
+**Claves foráneas:**
+
+* Solicitud.oferta_id hace referencia a Oferta de trabajo.oferta_id
+* Solicitud.candidato_id hace referencia a Candidato.candidato_id
+* Entrevista.solicitud_id hace referencia a Solicitud.solicitud_id
+
+**Restricciones:**
+
+* Un candidato solo puede postularse a una oferta de trabajo una vez.
+* Una solicitud solo puede tener un resultado (contratado, rechazado, en espera).
+
+Consideraciones adicionales:
+
+El modelo de datos puede ampliarse para incluir entidades adicionales, como usuarios del sistema, roles de usuario, permisos de usuario y configuraciones del sistema.
+El modelo de datos debe normalizarse para evitar redundancia y garantizar la integridad de los datos.
+El modelo de datos debe implementarse en una base de datos relacional o no relacional, dependiendo de las necesidades específicas del software.
+Este modelo de datos proporciona una base para almacenar y administrar los datos necesarios para el software de reclutamiento automatizado. 
+El modelo real puede modificarse para adaptarse a los requisitos específicos del software.
