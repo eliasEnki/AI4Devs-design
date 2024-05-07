@@ -173,8 +173,13 @@ Estos diagramas Mermaid ilustran la secuencia de interacciones entre los actores
 Este diagrama incluye las entidades necesarias para cubrir los casos de uso identificados:
 
 **Candidato:** Contiene la información del candidato, incluyendo su currículum.
+
 **Reclutador:** Gestiona las aplicaciones y puede generar reportes.
+
 **Vacante:** Detalles de los puestos de trabajo disponibles.
+
 **Aplicación:** Relaciona candidatos con vacantes y lleva un registro del estado de la aplicación.
+
 **Entrevista:** Registra detalles de entrevistas realizadas a los candidatos.
+
 **Reporte:** Contiene datos sobre el rendimiento del proceso de reclutamiento.
