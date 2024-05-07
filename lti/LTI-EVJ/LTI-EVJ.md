@@ -129,7 +129,8 @@ Equipo de ingenieros de software y científicos de datos.
 Descripción: Este caso de uso describe cómo el sistema filtra automáticamente los currículums recibidos basándose en criterios predefinidos para identificar a los candidatos más prometedores.
 
 Actores Principales: Reclutador.
-(./res/FiltradoAutomaticoCandidatos.png)
+
+![CasosUso](./res/FiltradoAutomaticoCandidatos.png)
 Diagrama Mermaid:
 
 mermaid
