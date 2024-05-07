@@ -42,16 +42,19 @@ Automatizar y optimizar el proceso de reclutamiento con nuestro ATS puede signif
 Estas ventajas competitivas y valores agregados no solo diferencian nuestro sistema ATS en el mercado, sino que también proporcionan a las empresas las herramientas necesarias para afrontar los desafíos modernos del reclutamiento, asegurando así una ventaja estratégica en la adquisición de talento.
 
 ### LEAN
-Problema:
+**Problema:**
 
 Las empresas enfrentan dificultades para encontrar y atraer al mejor talento humano en un mercado laboral altamente competitivo.
 Los procesos de reclutamiento tradicionales son lentos, ineficientes y propensos a sesgos.
 La falta de datos y análisis dificulta la toma de decisiones estratégicas en materia de reclutamiento.
 La experiencia del candidato suele ser deficiente, lo que puede afectar la imagen de la empresa.
-Solución:
+
+
+**Solución:**
 
 Un Sistema de Seguimiento de Candidatos (ATS) innovador que utiliza inteligencia artificial, análisis de datos y un enfoque en la experiencia del candidato para optimizar el proceso de reclutamiento.
-Clientes:
+
+**Clientes:**
 
 Empresas de todos los tamaños que buscan mejorar sus procesos de reclutamiento y atraer al mejor talento humano.
 Departamentos de recursos humanos que necesitan herramientas eficientes para gestionar el proceso de selección.
@@ -169,10 +172,9 @@ Estos diagramas Mermaid ilustran la secuencia de interacciones entre los actores
 
 Este diagrama incluye las entidades necesarias para cubrir los casos de uso identificados:
 
-Candidato: Contiene la información del candidato, incluyendo su currículum.
-Reclutador: Gestiona las aplicaciones y puede generar reportes.
-Vacante: Detalles de los puestos de trabajo disponibles.
-Aplicación: Relaciona candidatos con vacantes y lleva un registro del estado de la aplicación.
-Entrevista: Registra detalles de entrevistas realizadas a los candidatos.
-Reporte: Contiene datos sobre el rendimiento del proceso de reclutamiento.
-Puedes copiar este código en un editor que soporte Mermaid para visualizar el diagrama de entidad-relación, ayudando a comprender mejor cómo se manejan los datos dentro del sistema ATS.
+**Candidato:** Contiene la información del candidato, incluyendo su currículum.
+**Reclutador:** Gestiona las aplicaciones y puede generar reportes.
+**Vacante:** Detalles de los puestos de trabajo disponibles.
+**Aplicación:** Relaciona candidatos con vacantes y lleva un registro del estado de la aplicación.
+**Entrevista:** Registra detalles de entrevistas realizadas a los candidatos.
+**Reporte:** Contiene datos sobre el rendimiento del proceso de reclutamiento.
