@@ -7,29 +7,38 @@ El Sistema de Seguimiento de Candidatos (ATS) es una solución de software integ
 
 ### Funcionalidades Clave:
 
-Gestión de Candidaturas: Centraliza todas las aplicaciones de empleo en un solo lugar, permitiendo a los reclutadores acceder, buscar y gestionar currículums de manera eficiente.
+### Gestión de Candidaturas: 
+Centraliza todas las aplicaciones de empleo en un solo lugar, permitiendo a los reclutadores acceder, buscar y gestionar currículums de manera eficiente.
 Filtrado Automático de Candidatos: Utiliza algoritmos avanzados para filtrar candidatos basándose en criterios predefinidos como habilidades, experiencia, educación y más, reduciendo el tiempo y esfuerzo en la selección inicial.
 Herramientas de Comunicación: Integra funcionalidades de comunicación para facilitar el contacto directo con los candidatos, programar entrevistas y enviar notificaciones automáticas sobre el estado de sus aplicaciones.
 Análisis y Reportes: Proporciona herramientas analíticas que ayudan a medir la eficacia del proceso de reclutamiento, identificar cuellos de botella y optimizar las estrategias de contratación.
-Integración con HRMS y Plataformas de Empleo: Se integra sin problemas con sistemas de gestión de recursos humanos y plataformas de empleo externas para un flujo de trabajo de reclutamiento más amplio y cohesivo.
+### Integración con HRMS y Plataformas de Empleo: 
+Se integra sin problemas con sistemas de gestión de recursos humanos y plataformas de empleo externas para un flujo de trabajo de reclutamiento más amplio y cohesivo.
 Interfaz Amigable y Personalizable: Ofrece una interfaz de usuario intuitiva y personalizable que se adapta a las necesidades específicas de la empresa, mejorando la experiencia tanto para los reclutadores como para los candidatos.
 Beneficios Esperados:
 
-Reducción de Tiempos de Contratación: Automatizar el filtrado y la preselección de candidatos permite a los reclutadores centrarse en los candidatos más prometedores, acelerando el proceso de contratación.
+###  Reducción de Tiempos de Contratación: 
+Automatizar el filtrado y la preselección de candidatos permite a los reclutadores centrarse en los candidatos más prometedores, acelerando el proceso de contratación.
 Mejora de la Calidad del Contratado: Al asegurar un proceso de selección más riguroso y basado en datos, el ATS ayuda a atraer y seleccionar candidatos que mejor se ajusten a las necesidades de la empresa.
 Eficiencia Operativa: Minimiza las tareas administrativas relacionadas con el reclutamiento, permitiendo al equipo de recursos humanos dedicar más tiempo a tareas estratégicas.
 Este sistema ATS está diseñado para ser una herramienta robusta y escalable que se adapta a las cambiantes demandas del mercado laboral y las necesidades específicas de la empresa, asegurando un proceso de reclutamiento eficaz y moderno.
 
 ### Ventajas Competitivas
 
-Algoritmos de Filtrado Avanzados: Mientras que muchos sistemas ATS utilizan filtrado básico por palabras clave, nuestro sistema empleará algoritmos más avanzados que pueden interpretar el contexto y la relevancia de las habilidades y experiencias en los currículos. Esto minimiza la posibilidad de descartar buenos candidatos solo porque su currículum no utiliza ciertas palabras clave específicas.
-Integración Profunda con Plataformas de Empleo y HRMS: Nuestro sistema se destacará por su capacidad para integrarse profundamente no solo con sistemas de gestión de recursos humanos internos, sino también con una variedad de plataformas de empleo externas. Esta integración facilitará un flujo de trabajo continuo y permitirá a los reclutadores acceder a un pool más amplio de candidatos de manera eficiente.
-Personalización de la Interfaz de Usuario: Ofreceremos una personalización sin precedentes en la interfaz de usuario, permitiendo que cada empresa ajuste el ATS a sus procesos y estilos visuales específicos. Esto mejora la experiencia del usuario y la adopción del sistema dentro de la organización.
+### Algoritmos de Filtrado Avanzados: 
+Mientras que muchos sistemas ATS utilizan filtrado básico por palabras clave, nuestro sistema empleará algoritmos más avanzados que pueden interpretar el contexto y la relevancia de las habilidades y experiencias en los currículos. Esto minimiza la posibilidad de descartar buenos candidatos solo porque su currículum no utiliza ciertas palabras clave específicas.
+### Integración Profunda con Plataformas de Empleo y HRMS: 
+Nuestro sistema se destacará por su capacidad para integrarse profundamente no solo con sistemas de gestión de recursos humanos internos, sino también con una variedad de plataformas de empleo externas. Esta integración facilitará un flujo de trabajo continuo y permitirá a los reclutadores acceder a un pool más amplio de candidatos de manera eficiente.
+### Personalización de la Interfaz de Usuario: 
+Ofreceremos una personalización sin precedentes en la interfaz de usuario, permitiendo que cada empresa ajuste el ATS a sus procesos y estilos visuales específicos. Esto mejora la experiencia del usuario y la adopción del sistema dentro de la organización.
 Herramientas Analíticas Avanzadas: Proporcionaremos herramientas analíticas robustas que no solo reportan sobre el proceso de reclutamiento, sino que también ofrecen insights predictivos y prescriptivos para mejorar continuamente las estrategias de reclutamiento basadas en datos en tiempo real.
 ### Valor Agregado
-Mejora de la Experiencia del Candidato: Un ATS que comunica de manera efectiva y transparente con los candidatos sobre el estado de su aplicación mejora la imagen de la empresa y aumenta la satisfacción del candidato, lo cual es crucial en mercados laborales competitivos.
-Eficiencia en la Diversidad de Contratación: Al utilizar un enfoque más holístico y menos sesgado en el proceso de filtrado, nuestro sistema ayudará a las empresas a mejorar sus esfuerzos de diversidad e inclusión, asegurando que los talentos de diversos antecedentes sean considerados equitativamente.
-Reducción de Costos a Largo Plazo: Automatizar y optimizar el proceso de reclutamiento con nuestro ATS puede significar una reducción significativa en los costos asociados a la contratación, desde la disminución del tiempo necesario para llenar posiciones hasta la reducción del tiempo de inactividad por vacantes no cubiertas.
+### Mejora de la Experiencia del Candidato: 
+Un ATS que comunica de manera efectiva y transparente con los candidatos sobre el estado de su aplicación mejora la imagen de la empresa y aumenta la satisfacción del candidato, lo cual es crucial en mercados laborales competitivos.
+### Eficiencia en la Diversidad de Contratación: 
+Al utilizar un enfoque más holístico y menos sesgado en el proceso de filtrado, nuestro sistema ayudará a las empresas a mejorar sus esfuerzos de diversidad e inclusión, asegurando que los talentos de diversos antecedentes sean considerados equitativamente.
+### Reducción de Costos a Largo Plazo: 
+Automatizar y optimizar el proceso de reclutamiento con nuestro ATS puede significar una reducción significativa en los costos asociados a la contratación, desde la disminución del tiempo necesario para llenar posiciones hasta la reducción del tiempo de inactividad por vacantes no cubiertas.
 Estas ventajas competitivas y valores agregados no solo diferencian nuestro sistema ATS en el mercado, sino que también proporcionan a las empresas las herramientas necesarias para afrontar los desafíos modernos del reclutamiento, asegurando así una ventaja estratégica en la adquisición de talento.
 
 ### LEAN
@@ -49,7 +58,8 @@ Departamentos de recursos humanos que necesitan herramientas eficientes para ges
 Reclutadores y gerentes de contratación que buscan identificar a los candidatos más idóneos para cada puesto.
 Propuesta de valor:
 
-Selección de candidatos más precisa y eficiente: Algoritmos de IA que identifican a los candidatos más calificados, reduciendo el tiempo de contratación y mejorando la calidad de las contrataciones.
+### Selección de candidatos más precisa y eficiente: 
+Algoritmos de IA que identifican a los candidatos más calificados, reduciendo el tiempo de contratación y mejorando la calidad de las contrataciones.
 Experiencia del candidato optimizada: Portal de empleo intuitivo, comunicación personalizada y proceso de selección ágil para atraer y retener a los mejores candidatos.
 Análisis de datos y toma de decisiones estratégicas: Generación de informes y métricas avanzadas para identificar tendencias, áreas de mejora y tomar decisiones basadas en datos.
 Integración con otras herramientas de RRHH: Centralización de la información de los candidatos, simplificación de procesos administrativos y mejora de la colaboración entre departamentos.
@@ -131,7 +141,6 @@ Descripción: Este caso de uso describe cómo el sistema filtra automáticamente
 Actores Principales: Reclutador.
 
 ![CasosUso](./res/FiltradoAutomaticoCandidatos.png)
-Diagrama Mermaid:
 
 
 
